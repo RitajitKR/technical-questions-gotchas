@@ -1,7 +1,5 @@
 # Technical Questions Gotchas
 
-## For All
-- ``` int a=5, b=10; a=(a+b) – (b=a); ``` : Swaps a and b in one line.
-## C
-- ```printf("%d", scanf(<<anything>>)```  : prints no. of inputs scanned.
-- In loop conditions, if condition is not boolean, an integer is always considered as true. Eg: ```int i=0; for(;i;++i){}``` run infinitely.
+This is a collection of tricky pitfalls generally encountered in recruitment process for technical roles. Read to take advantage and please add if you can.
+
+Every thing is written in the Wiki of this repository. Head over to : https://github.com/RitajitKR/technical-questions-gotchas/wiki
